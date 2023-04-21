@@ -1,2 +1,5 @@
-site.title: fxbuson_o_
-description: Just testing stuff for now
+title: fxbuson_o_
+author: Felipe Xavier Buson
+email: fxbuson@gmail.com
+description: Just testing stuff
+theme: minima
